@@ -29,4 +29,10 @@
     padding: 1rem;
     border-radius: 1rem;
     outline: 0px;
+    transition: 0.5s;
+}
+.btn:hover{
+    outline-color: blue;
+    outline-width: 5px;
+    outline-style: groove;
 }
